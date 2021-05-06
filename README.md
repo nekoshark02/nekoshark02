@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nekoshark02
 - 👀 I’m interested in eating gummy candy!
 - 🌱 I’m currently learning C++,python,HTML,css
-- 💞️ I’m looking to collaborate on ... if I will be able to program better than I can,I want collaborate on someone who likes programing!
+- 💞️ I’m looking to collaborate on ... if I am able to program better than I can,I want collaborate on someone who likes programing!
 - 📫 How to reach me ...please follow me on Twitter
 
 I am poor at using English...
