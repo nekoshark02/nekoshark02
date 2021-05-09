@@ -9,7 +9,7 @@ I wish that I could use English better.
 So,I will have to study how to use English hard!!!
 please cheer me!
 
-Thank you!
+🎉Thank you!🎉
 
 <!---
 nekoshark02/nekoshark02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
