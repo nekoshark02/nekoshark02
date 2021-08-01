@@ -1,4 +1,7 @@
 # nekoshark02
+
+https://img.shields.io/badge/Twitter-pro-blue?style=for-the-badge&logo=appveyor
+
 極よわ制御マンです。制御とか制御とか制御を主にやってます。
 
 Twitterによくいます
