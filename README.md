@@ -1,11 +1,15 @@
 # nekoshark02
+🐈🦈02
 
-<img src = "https://img.shields.io/badge/Twitter-pro-blue?style=for-the-badge&logo=appveyor"> 
-<img src = "https://img.shields.io/badge/C%2B%2B-beginner-orange?style=for-the-badge&logo=appveyor"> 
-<img src = "https://img.shields.io/badge/Python-beginner-orange?style=for-the-badge&logo=appveyor"> 
-<img src = "https://img.shields.io/badge/Common%20LISP-very%20beginner-yellow?style=for-the-badge&logo=appveyor">
+## language
+<img src = "https://img.shields.io/badge/Twitter-pro-blue?style=for-the-badge&logo=twitter"> 
+<img src = "https://img.shields.io/badge/C++-beginner-orange?style=for-the-badge&logo=C"> 
+<img src = "https://img.shields.io/badge/Python-beginner-orange?style=for-the-badge&logo=python"> 
+<img src = "https://img.shields.io/badge/HTML5-beginner-orange?style=for-the-badge&logo=html5">
+<img src = "https://img.shields.io/badge/CSS3-beginner-orange?style=for-the-badge&logo=css3">
+<img src = "https://img.shields.io/badge/LISP-very%20beginner-yellow?style=for-the-badge">
 
-
+## introduce
 極よわ制御マンです。制御とか制御とか制御を主にやってます
 
 I'm nekoshark02. I'm fond of controling robots(but can't so well)
@@ -25,8 +29,6 @@ My hobby is watching old PCs. I want to use PC98,PC88,TK-80,Power Macintosh,but 
 
 I want to be able to write program very well and make Operating System,kernel,compiler some day. And I want to buy old PCs
 
-
-にゃーん🐈
 
 <!---
 nekoshark02/nekoshark02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
